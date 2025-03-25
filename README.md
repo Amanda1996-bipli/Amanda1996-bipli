@@ -1,21 +1,21 @@
-👋 Olá, sou Amanda!
+👋 Oi, sou Amanda!
+Sou apaixonada por Banco de Dados e estou iniciando minha jornada no Inglês para expandir minhas oportunidades. Tenho experiência prática em Administração de TI, onde fui responsável por tarefas como gestão de chamados, monitoramento de SLA, análise de incidentes, gestão de backlog e relatórios gerenciais. Além disso, desenvolvi habilidades em trabalho remoto e no atendimento de prioridades de clientes. Estou sempre buscando aprender mais e aprimorar minhas habilidades técnicas.
 
-Sou apaixonada por Banco de Dados, com foco em otimização de consultas SQL, análise de grandes volumes de dados e modelagem de dados. Atualmente, estou aprofundando meus conhecimentos em SQL avançado e técnicas de análise de dados.
+O que eu faço:
 
-🚀 Áreas de interesse:
+Banco de Dados: Experiência com SQL, MySQL e modelagem de dados.
 
-Desenvolvimento e otimização de bancos de dados
+Power BI: Criação de dashboards e análise de dados.
 
-Análise de dados e modelagem
+Inglês: Atualmente estou no início do aprendizado de inglês e focada em melhorar minha comunicação.
 
-Performance e tuning de SQL
+Administração de TI: Com experiência em análise de solicitações, abertura e escalonamento de chamados, monitoramento de SLA, gestão de backlog, e atendimento de prioridades de clientes. Também sou experiente no uso de ferramentas como Moebius e Invigate e no desenvolvimento de relatórios gerenciais.
 
-
-💡 O que você encontrará aqui?
-Projetos práticos aplicando técnicas de SQL, BI e análise de dados. Sempre buscando desafios para aprimorar minhas habilidades e colaborar com a comunidade.
+Meus projetos:
+Aqui você encontra projetos relacionados a SQL, Power BI e ao meu aprendizado contínuo de Inglês. Estou sempre em busca de novos desafios e aplicando meus conhecimentos para crescer como profissional.
 
 📬 Contato:
 📧 amandasc2326@gmail.com
-
+🔗 LinkedIn - Amanda Cavalini
 
 ⚡ Curiosidade: Além de dados, sou fã de musculação!
