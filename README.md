@@ -9,7 +9,14 @@ Power BI: Criação de dashboards e análise de dados.
 
 Inglês: Atualmente estou no início do aprendizado de inglês e focada em melhorar minha comunicação.
 
-Administração de TI: Com experiência em análise de solicitações, abertura e escalonamento de chamados, monitoramento de SLA, gestão de backlog, e atendimento de prioridades de clientes. Também sou experiente no uso de ferramentas como Moebius e Invigate e no desenvolvimento de relatórios gerenciais.
+ Habilidades Técnicas 
+• Power BI (Intermediário) – Criação de dashboards, indicadores e relatórios. 
+• Excel (Intermediário) – Manipulação de dados, fórmulas condicionais e análises. 
+• SQL (Básico) – Consultas, extração e manipulação de dados. 
+• Gestão de Chamados:  Field Service. 
+• Monitoramento de SLA e KPIs. 
+• Limpeza, organização e tratamento de dados. 
+• Comunicação, atendimento ao cliente, proatividade, organização e foco em resultados. 
 
 Meus projetos:
 Aqui você encontra projetos relacionados a SQL, Power BI e ao meu aprendizado contínuo de Inglês. Estou sempre em busca de novos desafios e aplicando meus conhecimentos para crescer como profissional.
